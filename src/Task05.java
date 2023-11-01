@@ -80,6 +80,7 @@ public class Task05 {
                     zodiacSing="Стрелец";}
                 else {zodiacSing="Козерог";}
                 break;
+
         }
         System.out.println("Знак: " +zodiacSing);
         System.out.println("Год: " +zodiacGod);
