@@ -12,5 +12,6 @@ public class Task10 {
         System.out.println("Подъезд" + podezd);
         System.out.println("Этаж" + etag);
 
+
     }
 }
